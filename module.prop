@@ -1,9 +1,9 @@
-id=template
-name=Template Module
-version=v1
+id=ActionLauncher3
+name=Action Launcher 3
+version=v1.0
 versionCode=1
-author=topjohnwu
-description=A short description
-support=http://forum.xda-developers.com/showthread.php?t=3432382
-donate=http://topjohnwu.github.io/donate
+author=crashoverride1995
+description=Magisk Module for Action Launcher 3
+support=http://forum.xda-developers.com/apps/magisk/module-action-launcher-3-t3476397
+donate=N/A
 cacheModule=false
